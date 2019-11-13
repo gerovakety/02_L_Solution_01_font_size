@@ -1,0 +1,22 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ h1 {
+     --max-font: 30px;
+     --min-font: 25px;
+     text-align: center;
+ }
+
+
+ h3 {
+     --max-font: 20px;
+     --min-font: 18px;
+     font-style: italic;
+ }
+
+ p {
+    --max-font: 16px;
+    --min-font: 14px;
+ }
